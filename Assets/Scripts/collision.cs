@@ -23,6 +23,6 @@ public class collision : MonoBehaviour {
 		}
 	void Die()
 	{
-		Application.LoadLevel(Application.loadedLevel);
+		Application.LoadLevel("last");
 	}
 }
