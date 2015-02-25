@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{FCE61309-3A37-3C07-07A6-633F3F42449D}</ProjectGuid>
+	<ProjectGuid>{9C30E946-EF72-6B8B-C165-DDBC111C2C23}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,7 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\controller.js" />
+     <Compile Include="Assets\Mouse.js" />
+     <Compile Include="Assets\timer.js" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>C:/Users/IssaEfren/Documents/game dev/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{6FBBCD85-7522-BEFC-02EC-7FEFFEDE0D15}</ProjectGuid>
+	<ProjectGuid>{C260C678-205F-1C1B-7DF4-667D893DBAF8}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,9 +46,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\collision.cs" />
+     <Compile Include="Assets\Scripts\controller.cs" />
      <Compile Include="Assets\Scripts\spawner.cs" />
-     <Compile Include="Assets\collision.cs" />
-     <Compile Include="Assets\collision2.cs" />
+     <Compile Include="Assets\spawnerenv.cs" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>C:/Users/IssaEfren/Documents/game dev/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
