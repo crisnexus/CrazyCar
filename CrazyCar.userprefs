@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\backgroundScroll.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\timer.js">
     <Files>
-      <File FileName="Assets\backgroundScroll.cs" Line="13" Column="22" />
+      <File FileName="Assets\Scripts\backgroundScroll.cs" Line="59" Column="3" />
+      <File FileName="Assets\Scripts\timer.js" Line="24" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
