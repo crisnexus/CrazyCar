@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\collision.cs" />
      <Compile Include="Assets\Scripts\controller.cs" />
      <Compile Include="Assets\Scripts\spawner.cs" />
+     <Compile Include="Assets\backgroundScroll.cs" />
      <Compile Include="Assets\spawnerenv.cs" />
      <Compile Include="Assets\spawningObjects2.cs" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
