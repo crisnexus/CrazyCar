@@ -5,7 +5,6 @@ private var textfield:GUIText;
 private var allowedTime: int = 0;
 private var currentTime = allowedTime;
 
-
 function Awake () {
 textfield = GetComponent(GUIText);
 UpdateTimerText();

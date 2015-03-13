@@ -1,9 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\timer.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\game dev\CrazyCar\Assets\Scripts\about.js">
     <Files>
-      <File FileName="Assets\Scripts\backgroundScroll.cs" Line="59" Column="3" />
-      <File FileName="Assets\Scripts\timer.js" Line="24" Column="19" />
+      <File FileName="..\game dev\CrazyCar\Assets\Scripts\try.js" Line="20" Column="33" />
+      <File FileName="..\game dev\CrazyCar\Assets\Scripts\about.js" Line="6" Column="41" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

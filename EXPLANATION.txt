@@ -1,0 +1,24 @@
+GAME NAME: CrazyCar
+GROUP NAME: THREEnity
+GROUP MEMBERS: Cristian Arechita - Graphics Designer & Programmer
+	       Romnick Belen - Lead Programmer
+	       Yves Laurent Sto. Domningo - Audio Designer & Programmer
+
+GAME TOOL: Unity
+GAME GENRE: Casual Game
+GAME PLATFORN: PC
+LANGUAGE USE: Javascript
+	      C#
+
+GAME:
+GAMEPLAY: Avoid all cars facing SOUTH.
+	  Cars that are facing NORTH are all illusions except for POLICE CARS. You can hit them.
+	  Hitting the boundary will result on losing control of your car
+
+	  First,we chose our project manager and every member has given a task.We discussed what game to be created and we come up with our first idea, 
+	  spaceship game with the same gameplay. But,we have difficulty in making the code and graphics, so we shifted in doing researches and watching tutorials about Unity. 
+	  After a long discussion and Brainstorming, we come up with the idea of creating a car game and we called it CrazyCar, it's main objective is get higer time by avoid bumping the cars
+	  facing the direction of the player.
+	  CrazyCar composed of main camera, scenes, level, game objects with scripts, sprites and prefabs. Remember that a game object dont do anything witout script, and a script dont do anything without a game object.
+	  Our game had a bug like not displaying the score on the game over menu, and not randomly spawn the enemies.
+	  Its very hard making games. We thought that its simple. We learned important lessons of being a computer science student. First, we must manage time very well. We must do our best and beleive on yourself.
